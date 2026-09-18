@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748913004062",
+    "project_id": "fila-virtual-bcp",
+    "storage_bucket": "fila-virtual-bcp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748913004062:android:a2d24e50c24beb0a5ae80f",
+        "android_client_info": {
+          "package_name": "com.example.fila_virtual_bcp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnU_-DXtSKPLGhtIYI62jRj8tInS56cdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
